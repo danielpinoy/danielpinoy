@@ -40,11 +40,6 @@ $ npm install daniel-skills
 💬 ChatBox → Real-time chat that actually works
 ```
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielpinoy&show_icons=true&theme=radical" />
-</div>
-
 ## 🎵 Currently Vibing To
 ```
 🎧 Coding playlist: Lo-fi beats + React hooks = Pure magic
